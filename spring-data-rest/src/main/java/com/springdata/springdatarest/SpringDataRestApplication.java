@@ -8,7 +8,11 @@ public class SpringDataRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDataRestApplication.class, args);
+	
+		System.out.println("first rest application");
 	}
+	
+	
 
 }
 
